@@ -1,0 +1,18 @@
+.sobre {
+    background-color: #EAF2FD;
+}
+
+.sobre__titulo {
+    font-weight: 700;
+    font-size: 32px;
+}
+
+.sobre__texto {
+    font-weight: 400;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+.sobre__img {
+    margin-top: 16px;
+}

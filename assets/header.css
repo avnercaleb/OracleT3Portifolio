@@ -1,0 +1,29 @@
+.header__container{
+    display: flex;
+    flex-direction: row;   
+    justify-content: space-between; 
+}
+
+.header__lista{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    align-items: center;
+}
+
+.header__lista--item{
+    font-weight: 500;    
+}
+
+.header__lista--opcoes{
+    margin-left: 24px;
+}
+
+.titulo {
+    margin-left: 10px;
+}
+
+.email,
+.titulo {
+    font-weight: 700;    
+}

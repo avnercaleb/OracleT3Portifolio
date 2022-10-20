@@ -1,0 +1,51 @@
+.xp__titulo {
+    margin-top: 12px;
+    margin-bottom: 24px;
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+}
+
+.xp__componente {
+    margin-top: 24px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.xp__componente--lista--titulo {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.xp__componente--lista--legenda {
+    margin-top: 8px;
+    font-weight: 500;
+}
+
+.botao__container {
+    margin-top: 24px;
+}
+
+.botao-branco {
+    border: 1px solid #2A7AE4;
+    padding: 12px;
+    color: #2A7AE4;
+    margin-right: 8px;
+}
+
+.botao-azul {
+    border: 1px solid #2A7AE4;
+    background-color: #2A7AE4;
+    padding: 12px;
+    color: #ffffff;
+}
+
+.img__xp {
+    width: 960px;
+}
+
+.direita {
+    margin-right: 216px;
+}

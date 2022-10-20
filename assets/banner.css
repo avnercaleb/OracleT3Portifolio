@@ -1,0 +1,29 @@
+.banner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    margin-top: 52px;
+}
+
+.banner__titulo {
+    font-size: 52px;
+    font-weight: 700;
+}
+
+.banner__texto {
+    font-size: 24px;
+    font-weight: 400;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
+.banner__lista {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.banner__lista--item {
+    margin-right: 52px;
+}

@@ -1,0 +1,53 @@
+.formacao {
+    background-color: #EAF2FD;
+}
+
+.formacao__titulo {
+    padding-top: 52px;
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+}
+
+.formacao__container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.formacao__componente--item--img {        
+    width: 298px;
+    height: 216px;
+    background-color: #ffffff;
+    display: flex; 
+    align-items: center;
+    justify-content: center;
+}
+
+.formacao__componente--item--titulo {
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.formacao__componente--item--legenda {
+    font-weight: 500;
+}
+
+.formacao__componente--item--titulo,
+.formacao__componente--item--legenda {
+    margin-top: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
